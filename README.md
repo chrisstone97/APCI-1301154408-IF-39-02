@@ -1,3 +1,8 @@
-# APCI-1301154408-IF-39-02
-Teaser DAP
-Program sederhana menggunakan bahasa pemrograman pascal
+# Hello-APCI-Asprak-NIM
+
+    Program Hello;
+    Uses Crt; 
+    Begin
+        ClrScr;
+        Writeln(‘Hello World’); //untuk mengeluarkan string ‘Hello World’ di layar 
+    End.
